@@ -3,7 +3,7 @@ I Subhankar De, a 👨‍💻 cloud native developer and a technology enthusiast
 - I’m currently learning React and Kubernetes
 - Exploring AWS and GCP with self-learning projects
 - Want to contribute to open-source project in 2021
-- I am documenting my learnings on GitHub creating by projects
+- I am documenting my learnings on GitHub by creating projects
 - Planning to start learning CSS, Python and ML
 - Learn how we can build multicloud solutions
 
