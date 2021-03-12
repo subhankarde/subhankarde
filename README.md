@@ -26,7 +26,7 @@ I Subhankar De, a 👨‍💻 cloud native developer and a technology enthusiast
 
 ### 📫 How to reach me:
 
-- Email : de.subhankar@live.com
-- Linkedin : [subhankarde](https://www.linkedin.com/in/subhankar-de-87a6328)
+- [![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:de.subhankar@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhankar-de-87a6328)
 
 ⭐️ From [SubhankarDe](https://github.com/subhankarde)
