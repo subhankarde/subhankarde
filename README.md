@@ -7,7 +7,7 @@ I Subhankar De, a 👨‍💻 cloud native developer and a technology enthusiast
 - Planning to start learning CSS, Python and ML
 - Learn how we can build multicloud solutions
 
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
